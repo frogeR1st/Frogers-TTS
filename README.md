@@ -1,2 +1,1 @@
-# Frogers TTS
- my basic tts python program what also has sfx
+this is just my basic TTS program for my YT channel it has SFX and TTS it has some basic settings (that you have to change in code) (also for some reason it only works when you run it through something like VScode IDK why)
